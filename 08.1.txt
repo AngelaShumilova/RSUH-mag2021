@@ -1,0 +1,3 @@
+мера	gauge, measure, action
+действие	action, effect, force
+заставлять	make, force, cause

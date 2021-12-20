@@ -1,0 +1,7 @@
+gauge	мера 
+measure	мера 
+action	мера действие 
+effect	действие 
+force	действие заставлять 
+make	заставлять 
+cause	заставлять 
